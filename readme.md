@@ -37,5 +37,5 @@ Author: UTKARSH KUMAR
    construct required Data structures.
    
 ******************************************
-If you want to explore and experiment how the model performs in other corpus find some corpus here at:
+If you want to explore and experiment how the model performs with other corpus find some corpus files here at:
 https://drive.google.com/drive/folders/1ZsnuEm7_N6aUwhjFpv-TZXFt4DiYex4t?usp=sharing
